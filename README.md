@@ -12,8 +12,8 @@
 - 📫 How to reach me **ibra.aktass@gmail.com**
 
 - 🌲 My Latest Project and its Details
-   -Hotelss [Application Images](https://drive.google.com/drive/u/2/folders/1J4QAzvxbOBQKkyD-BsMJ5JLjns1eM52n)
- 👽  I created this project with Flutter. I used the MVVM architecture, I also used the Provider for State Management, which is very important for Flutter Projects,     and I used a small amount of Cubit, as well as the firebase system as a backend tool. I created all the designs myself through AdobeXD. The Vector drawings I use in   the application are free from IconScout site. You can contact me for code details.
+- Hotelss [Application Images](https://drive.google.com/drive/u/2/folders/1J4QAzvxbOBQKkyD-BsMJ5JLjns1eM52n)
+-👽  I created this project with Flutter. I used the MVVM architecture, I also used the Provider for State Management, which is very important for Flutter Projects,     and I used a small amount of Cubit, as well as the firebase system as a backend tool. I created all the designs myself through AdobeXD. The Vector drawings I use in   the application are free from IconScout site. You can contact me for code details.
    
  
 
