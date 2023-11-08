@@ -1,20 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
-<h3 align="center">A passionate Mobile Developer from Turkey</h3>
+<h3 align="center">A passionate Mobile Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=404ibra&label=Profile%20views&color=0e75b6&style=flat" alt="404ibra" /> </p>
 
-- 🔭 I’m currently working on [Hotelss](https://github.com/404ibra/Hotel)
+- 🔭 I’m currently working on Lella: Language Learning 🦑
 
-- 🌱 I’m currently learning **Swift, Flutter**
-
-- 💬 Ask me about **Flutter,Swift,**
+- 🌱 I’m currently learning **Swift, Flutter, Kotlin**
 
 - 📫 How to reach me **ibra.aktass@gmail.com**
 
 - 🌲 My Latest Project and its Details
-- Hotelss [Application Images](https://drive.google.com/drive/u/2/folders/1J4QAzvxbOBQKkyD-BsMJ5JLjns1eM52n)
--👽  I created this project with Flutter. I used the MVVM architecture, I also used the Provider for State Management, which is very important for Flutter Projects,     and I used a small amount of Cubit, as well as the firebase system as a backend tool. I created all the designs myself through AdobeXD. The Vector drawings I use in   the application are free from IconScout site. You can contact me for code details.
-   
+- Lella: Language Learning
+- 🦑 The project I am actively working on is Lella: Language Learning, which is also available on the App Store. I did the design and software part of this project entirely by myself, I actively used SwiftUI in the software part, I used MVVM architecture, and I also used services such as Firebase and RestAPI. At the same time, I am developing the Android version with Flutter and will publish it on the store very soon. I also took part in many freelance projects.
  
 
 <h3 align="left">Connect with me:</h3>
