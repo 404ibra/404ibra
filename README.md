@@ -3,15 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=404ibra&label=Profile%20views&color=0e75b6&style=flat" alt="404ibra" /> </p>
 
-- 🔭 I’m currently working on Lella: Language Learning 🦑
+- 🔭 I’m currently working on Lella: Language Learning 🦑 (Lella is on the App Store)[https://apps.apple.com/tr/app/lella-fast-language-learning/id6458745927]
 
 - 🌱 I’m currently learning **Swift, Flutter, Kotlin**
 
 - 📫 How to reach me **ibra.aktass@gmail.com**
 
 - 🌲 My Latest Project and its Details
-- 🔭 I’m currently working on [https://apps.apple.com/tr/app/lella-fast-language-learning/id6458745927](https://apps.apple.com/tr/app/lella-fast-language-learning/id6458745927)
-
+- Lella: Language Learning 
 - 🦑 The project I am actively working on is Lella: Language Learning, which is also available on the App Store. I did the design and software part of this project entirely by myself, I actively used SwiftUI in the software part, I used MVVM architecture, and I also used services such as Firebase and RestAPI. At the same time, I am developing the Android version with Flutter and will publish it on the store very soon. I also took part in many freelance projects.
  
 
