@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=404ibra&label=Profile%20views&color=0e75b6&style=flat" alt="404ibra" /> </p>
 
-- 🔭 I’m currently working on Lella: Language Learning 🦑 (Lella is on the App Store)[https://apps.apple.com/tr/app/lella-fast-language-learning/id6458745927]
+- 🔭 I’m currently working on Lella: Language Learning 🦑 [Lella is on the App Store](https://apps.apple.com/tr/app/lella-fast-language-learning/id645874592)
 
 - 🌱 I’m currently learning **Swift, Flutter, Kotlin**
 
