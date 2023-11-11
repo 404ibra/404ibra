@@ -1,8 +1,8 @@
-[![MasterHead](https://developer.apple.com/news/images/og/apple-developer-og.png)](https://rishavchanda.io)
+![MasterHead](https://developer.apple.com/news/images/og/apple-developer-og.png)
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
-<h3 align="center">Mobile Developerr</h3>
+<h3 align="center">Mobile Developer</h3>
 <img align="right" alt="Coding" width="300"src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZpaWxkMWJxZm0xM2ZhdWdjZXk4cnNmcWg5YXZ0NWpxMTdqdGU2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=404ibra&label=Profile%20views&color=0e75b6&style=flat" alt="404ibra" /> </p>
+
 
 - 🔭 I’m currently working on Lella: Language Learning 🦑 [Lella is on the App Store](https://apps.apple.com/tr/app/lella-fast-language-learning/id645874592)
 
