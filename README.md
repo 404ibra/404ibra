@@ -10,7 +10,7 @@
 - 📫 How to reach me **ibra.aktass@gmail.com**
 
 - 🌲 My Latest Project and its Details
-- Lella: Language Learning 
+- Lella: Language Learning [Project iOS  Details](https://github.com/404ibra/iOS_Lella), [Project Android 🤖 Details](https://github.com/404ibra/Android_Lella)
 - 🦑 The project I am actively working on is Lella: Language Learning, which is also available on the App Store. I did the design and software part of this project entirely by myself, I actively used SwiftUI in the software part, I used MVVM architecture, and I also used services such as Firebase and RestAPI. At the same time, I am developing the Android version with Flutter and will publish it on the store very soon. I also took part in many freelance projects.
  
 
